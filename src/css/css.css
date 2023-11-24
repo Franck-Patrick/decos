@@ -1,0 +1,73 @@
+* {
+    font-family: 'Arsenal';
+}
+#floatingInput.form-control {
+    border-radius: 50px;
+}
+#floatingPassword.form-control {
+    border-radius: 50px;
+}
+body {
+    background-image: url(https://wallpapercave.com/wp/wp1848587.jpg);
+    background-size: cover;
+}
+.bg-light.d-flex.justify-content-center.py-3 {
+    border-bottom: solid rgb(107, 6, 6) 8px;
+    margin-bottom: 0px;
+}
+.nav-links {
+    margin-left: 60px;
+    text-decoration:none;
+    font-size: 20px;
+}
+.btn.btn-danger.w-100.py-2 {
+    font-family: 'Geo';
+}
+.text-center.h3.mb-3.fw-normal {
+    font-family: 'Oswald';
+    font-weight: bolder;
+    color: white;
+}
+.text-left.text-light {
+    margin-left: 30px;
+}
+.form-floating {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 50px;
+}
+.btn.btn-danger.w-100.py-2 {
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.ij {
+    margin-left: 20px;
+}
+form {
+    margin-left: 34px;
+    margin-right: 34px;
+    margin-top: 10px;
+}
+.bg-secondary {
+    padding-bottom: 2rem;
+}
+@media(max-width: 600px) {
+    .imagem {
+        display: none;
+    }
+}
+@media(min-width:600px) {
+    .ij {
+        display:none;
+    }
+    .nav-links {
+        display: inline;
+    }
+}
+.nav-item {
+    margin-top: 13px;
+}
+.imagem {
+    margin-left: -395px;
+}
+
